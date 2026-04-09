@@ -1,0 +1,51 @@
+review_id,text,sentiment
+N012,My order was canceled without warning after I had already waited.,0
+P024,"Solid app for late-night orders, and support actually responds. Great job.",1
+P005,"The interface is simple, the coupons worked, and delivery was quicker than expected. Great job.",1
+N025,I regret using this app tonight because everything went wrong.,0
+N006,Terrible experience; the app froze and then deleted my cart. Please fix this.,0
+P017,The vegetarian filter helped a lot and I found good options nearby. :),1
+P011,Super convenient app; I found my favorite restaurant and reordered in seconds. Great job.,1
+P010,"Ordering was easy, payment worked, and the meal tasted great. Highly recommend.",1
+N014,"I entered allergy notes, but they were ignored completely. Please fix this.",0
+N015,This was a waste of money—the order was wrong and nobody helped.,0
+P020,The food delivery app is reliable and saved me time during a busy evening. :),1
+P023,Wayyy better than last month; the bugs seem fixed and tracking works. Great job.,1
+N018,"The app logged me out, lost my payment details, and froze again.",0
+P025,I liked the recommendations and the delivery instructions were followed.,1
+P019,"Excellent experience overall, especially the real-time notifications. Highly recommend.",1
+N007,The food was missing items and the help chat kept sending automated replies. :(,0
+P014,The app feels much better after the update and loads quickly now. Highly recommend.,1
+P006,I had a great experience tonight; everything was fresh and the app never froze.,1
+P008,This was my third order this week and all of them arrived on time. Highly recommend.,1
+N013,The update made things worse; pages load slowly and search barely works. Please fix this.,0
+P001,The app made ordering dinner really easy and the driver arrived early.,1
+N002,"My order arrived cold, late, and with the wrong drink. Very disappointing.",0
+P021,Pretty impressed—the order came earlier than promised and still tasted fresh. :),1
+P002,I love how fast checkout is and the food was still hot when it got here. Great job.,1
+N021,"Very buggy experience, especially at checkout.",0
+N009,The coupon failed at payment and support blamed the restaurant. Please fix this.,0
+N020,The restaurant options disfood delivery appeared and the food delivery app kept buffering.,0
+P015,"I got a discount, the order was correct, and the whole process was stress-free. :)",1
+P003,"Very smooth experience, clear tracking, and my order was exactly right.",1
+N008,"Very frustrating, delivery took over an hour longer than promised.",0
+N011,"Bad app design, confusing menu, and too many errors. Very disappointing.",0
+N023,Way too slow and unreliable when I needed it most. I want my money back.,0
+N005,I was charged twice and still have not seen the refund.,0
+P018,Everything went smoothly from browsing to delivery.,1
+P012,The support chat was kind and fixed the address problem right away. Highly recommend.,1
+N003,Tracking stopped updating and customer support never replied. :(,0
+P009,The live map is helpful and the delivery updates are actually accurate. Great job.,1
+N004,The driver could not find my place even though the address was correct. :(,0
+N010,I am disappointed because the meal arrived soggy and messy.,0
+N016,The map was useless and the ETA kept changing every five minutes. :(,0
+P013,"Fast delivery, friendly driver, and no missing items this time. I will use it again.",1
+P016,Really happy with this order. Packaging was neat and nothing spilled. :),1
+N022,"Ughhh, the order never arrived and support closed the ticket. :(",0
+P022,"Love it!!! quick, easy, and no hassle tonight. Great job.",1
+N001,The app crashed twice during checkout and I had to start over.,0
+P004,Customer support solved my issue within minutes and refunded the missing item. :),1
+P007,"Amazing service, accurate ETA, and the restaurant notes were followed perfectly. Highly recommend.",1
+N024,The packaging leaked and half the fries were missing. I want my money back.,0
+N017,Awful service tonight. Late delivery and rude support. I want my money back.,0
+N019,Not happy at all; the driver left the food at the wrong door.,0
